@@ -1,4 +1,7 @@
 # Discord_Bot
-Do google search
+####get google search-"@ "
+####get random quotes-"rquotes"
+#### get today's quotes-"tquotes"
+
 
 
